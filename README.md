@@ -1,7 +1,7 @@
 ### Hi there!
 I am **Maxim Menshikov**, and this is the account for my security research activity which I was doing since 2007. Static analysis research activities can be seen at [@maximmenshikov](https://github.com/maximmenshikov).
 
-*EDIT: I am currently moving most repositories to [@maximmenshikov](https://github.com/maximmenshikov). Check all projects in [@dynamicsrom](https://github.com/dynamicsrom) and [@dynamics7](https://github.com/dynamics7) organizations.*
+*EDIT: **all repositories are moved** to [@maximmenshikov](https://github.com/maximmenshikov). Check all projects in [@dynamicsrom](https://github.com/dynamicsrom) and [@dynamics7](https://github.com/dynamics7) organizations.*
 
 During my security research I was concentrated on:
  - Windows Phone 7
